@@ -1,0 +1,11 @@
+.col-1, .col-2, .col-3, .col-4, .col-5 {
+    background-color: cyan;
+    border-radius: 20px ;
+    border: 10px solid rgb(36, 29, 29);
+    flex-grow: 2;
+    padding: 10px 30px;
+    margin-bottom: 10px;
+}
+.col-1 {
+    background-color: green;
+}
